@@ -1,0 +1,20 @@
+        7
+      /   \
+     5     8
+    / \     \
+   1   6     9
+  / \       
+ 0   3     
+    / \
+   2   4
+
+1) Root 7'dir.
+2) 5 root'un solundadır.
+3) 1, root'un solundadır.
+4) 8 root'un sağındadır.
+5) 3, root'un solundaki 5'in solundadır.
+6) 6, root'un solundaki 5'in sağındadır.
+7) 0, root'un solundaki 5'in 1'in solundadır.
+8) 9, root'un sağındaki 8'in sağındadır.
+9) 4, root'un solundaki 5'in solundaki 1'in sağındaki 3'ün sağındadır.
+10) 2, root'un solundaki 5'in solundaki 1'in sağındaki 3'ün solundadır.
