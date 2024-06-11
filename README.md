@@ -2,11 +2,11 @@
 
 Binary Search Tree (BST) - İkili Arama Ağacı
 
-Tanım: İkili arama ağacı (BST), her düğümün iki alt düğüme (sol ve sağ) sahip olduğu, belirli bir düzen içinde sıralanmış bir veri yapısıdır.
+Tanım: İkili arama ağacı (BST), her düğümün iki alt düğüme (sol ve sağ) sahip olduğu, belirli bir düzen içinde sıralanmış bir veri yapısıdır.\n
 
-Özellikler:
--Her düğümün değeri, sol alt düğümdeki tüm değerlerden büyük ve sağ alt düğümdeki tüm değerlerden küçüktür.
--Bu özellik, ağaçta hızlı arama, ekleme ve silme işlemlerine olanak tanır.
+Özellikler:\n
+-Her düğümün değeri, sol alt düğümdeki tüm değerlerden büyük ve sağ alt düğümdeki tüm değerlerden küçüktür.\n
+-Bu özellik, ağaçta hızlı arama, ekleme ve silme işlemlerine olanak tanır.\n
 
 Kullanım Alanları:
 -Veritabanları
